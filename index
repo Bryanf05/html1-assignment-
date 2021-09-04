@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML1</title>
+</head>
+
+<body>
+<h1>This is the sun</h1>
+<hr>
+<h2>This is a test!</h2>
+<img scr="images/sun.jpg"
+<h3> Solar System</h3>
+<p>The sun is about <strong title ="27 Million degrees farenheit" style="color: yellow">farenheit.</strong></p>
+<img scr="images/image.jpg">
+<b bold text</b>
+<img scr="images/market.jpg">
+<i>this text is italic<i>
+</body>
+</html>
